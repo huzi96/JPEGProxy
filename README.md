@@ -1,5 +1,5 @@
 # Differential JPEG Proxy
-This repo contains the differential codec proxy used in "Standard Compatible Efficient Video Coding with Jointly Optimized Neural Wrappers", *Data Compression Conference (DCC)*, 2024.
+This repo contains the differential codec proxy based on PyTorch, used in "Standard Compatible Efficient Video Coding with Jointly Optimized Neural Wrappers", *Data Compression Conference (DCC)*, 2024.
 
 If you find this code useful, please consider citing,
 
